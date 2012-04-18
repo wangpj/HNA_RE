@@ -1,5 +1,11 @@
 package nc.vo.hnare.ps.constant;
 
+/**
+ * @modifier liuhao
+ * @time 2012-4-18 下午5:05:36
+ * @version NC5.7, HNA_RE
+ * @description 
+ */
 public final class HNA_RE_PS_CONST {
 	public static final String PROJECT_TABLE = "fdc_bd_project";
 	public static final String PROJECT_INOROUT_FIELD = "vreserve1";// 项目类型
